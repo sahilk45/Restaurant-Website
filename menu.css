@@ -70,7 +70,7 @@ a{
     text-decoration: none;
 }
 .main{
-    background-image:url("../imagespro/dessert.jpeg");
+    background-image:url("imagespro/dessert.jpeg");
     height:100vh;
     display:flex;
     justify-content: center;
